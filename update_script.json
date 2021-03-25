@@ -3,7 +3,7 @@
    "statusCode":200,
    "object":{
       "url":"www.test.what",
-      "version":"www.test.what",
+      "version":"2.0",
       "date":"www.test.what"
    }
 }
